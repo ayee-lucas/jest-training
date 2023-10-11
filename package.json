@@ -1,0 +1,22 @@
+{
+  "name": "jest-training",
+  "version": "1.0.0",
+  "description": "Test training ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayee-lucas/jest-training.git"
+  },
+  "author": "ayee-lucas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayee-lucas/jest-training/issues"
+  },
+  "homepage": "https://github.com/ayee-lucas/jest-training#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
